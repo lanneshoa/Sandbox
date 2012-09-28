@@ -1,0 +1,8 @@
+D:\BBEEG\BBEEGInteger\BBEEGInteger\bin\Release\Coherence5LE.dll
+D:\BBEEG\BBEEGInteger\BBEEGInteger\bin\Release\BBEEGInteger.exe
+D:\BBEEG\BBEEGInteger\BBEEGInteger\bin\Release\BBEEGInteger.pdb
+D:\BBEEG\BBEEGInteger\BBEEGInteger\bin\Release\Newtonsoft.Json.Net20.dll
+D:\BBEEG\BBEEGInteger\BBEEGInteger\obj\x86\Release\ResolveAssemblyReference.cache
+D:\BBEEG\BBEEGInteger\BBEEGInteger\obj\x86\Release\BBEEGInteger.exe
+D:\BBEEG\BBEEGInteger\BBEEGInteger\obj\x86\Release\BBEEGInteger.pdb
+D:\BBEEG\BBEEGInteger\BBEEGInteger\bin\Release\BBEEGInteger.exe.config
